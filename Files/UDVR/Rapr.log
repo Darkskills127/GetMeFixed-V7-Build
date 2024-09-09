@@ -1,0 +1,45 @@
+2024-09-02 02:35:45Z [Information]: ---------------------------------------------------------------
+2024-09-02 02:35:45Z [Information]: Rapr started
+2024-09-02 02:35:45Z [Information]: Scanning driver store...
+2024-09-02 02:35:48Z [Information]: Ready
+2024-09-02 02:37:11Z [Information]: ---------------------------------------------------------------
+2024-09-02 02:37:11Z [Information]: Rapr started
+2024-09-02 02:37:11Z [Information]: Scanning driver store...
+2024-09-02 02:37:15Z [Information]: Ready
+2024-09-02 02:37:16Z [Information]: Shutting down - reason UserClosing
+2024-09-02 02:43:08Z [Information]: ---------------------------------------------------------------
+2024-09-02 02:43:08Z [Information]: Rapr started
+2024-09-02 02:43:08Z [Information]: Scanning driver store...
+2024-09-02 02:43:11Z [Information]: Shutting down - reason UserClosing
+2024-09-02 02:45:07Z [Information]: ---------------------------------------------------------------
+2024-09-02 02:45:07Z [Information]: Rapr started
+2024-09-02 02:45:07Z [Information]: Scanning driver store...
+2024-09-02 02:45:11Z [Information]: Ready
+2024-09-02 02:45:16Z [Information]: Shutting down - reason UserClosing
+2024-09-02 03:32:26Z [Information]: ---------------------------------------------------------------
+2024-09-02 03:32:26Z [Information]: Rapr started
+2024-09-02 03:32:26Z [Information]: Scanning driver store...
+2024-09-02 03:32:29Z [Information]: Ready
+2024-09-02 03:32:36Z [Information]: Selected 3 Driver(s). Total size: 55 MB.
+oem36.inf - netwtw08.inf_amd64_3645dc8705dd761d - 55 MB
+oem41.inf - gameflt.inf_amd64_63b883f25bff8750 - 177 KB
+oem68.inf - gameflt.inf_amd64_7a99b6d694df393c - 177 KB
+2024-09-02 03:32:47Z [Information]: Deleting driver package(s)...
+oem36.inf - netwtw08.inf_amd64_3645dc8705dd761d - 55 MB
+oem41.inf - gameflt.inf_amd64_63b883f25bff8750 - 177 KB
+oem68.inf - gameflt.inf_amd64_7a99b6d694df393c - 177 KB
+2024-09-02 03:32:47Z [Information]: Deletion of oem36.inf (netwtw08.inf_amd64_3645dc8705dd761d) succeeded.
+2024-09-02 03:32:47Z [Information]: Deletion of oem41.inf (gameflt.inf_amd64_63b883f25bff8750) succeeded.
+2024-09-02 03:32:48Z [Information]: Deletion of oem68.inf (gameflt.inf_amd64_7a99b6d694df393c) succeeded.
+2024-09-02 03:32:48Z [Information]: Removed 3 packages from driver store.
+2024-09-02 03:32:56Z [Information]: Shutting down - reason UserClosing
+2024-09-02 03:57:41Z [Information]: ---------------------------------------------------------------
+2024-09-02 03:57:41Z [Information]: Rapr started
+2024-09-02 03:57:41Z [Information]: Scanning driver store...
+2024-09-02 03:57:44Z [Information]: Ready
+2024-09-02 03:58:04Z [Information]: Shutting down - reason UserClosing
+---------------------------
+2024-09-02 03:57:53Z [Information]: Rapr started
+2024-09-02 03:57:53Z [Information]: Scanning driver store...
+2024-09-02 03:57:56Z [Information]: Ready
+2024-09-02 03:58:02Z [Information]: Shutting down - reason UserClosing

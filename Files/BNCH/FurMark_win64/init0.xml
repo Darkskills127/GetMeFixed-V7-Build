@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<geexlab_init
+    demofile="gui.gxl"
+    check_version="0"
+    enable_window_offsets="0"
+	window_offset_x="-1"
+	window_offset_y="-1"
+/>
